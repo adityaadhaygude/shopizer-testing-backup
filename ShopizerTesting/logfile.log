@@ -1,0 +1,22 @@
+2021-12-05 23:30:53,256 INFO  [Log] Navigated to the homepage 
+2021-12-05 23:30:58,351 INFO  [Log] Test Case : Verifying all the hyperlinks working coorectly 
+2021-12-05 23:30:58,351 INFO  [Log] Asserted home page title 
+2021-12-05 23:30:58,388 INFO  [Log] Asserted image present on the home page 
+2021-12-05 23:30:58,406 INFO  [Log] Mouse hovered on products button 
+2021-12-05 23:30:58,545 INFO  [Log] Clicked on HandBags button 
+2021-12-05 23:30:58,809 INFO  [Log] Mouse hovered on products button 
+2021-12-05 23:30:58,950 INFO  [Log] Clicked on BeachBags button 
+2021-12-05 23:30:59,517 INFO  [Log] Mouse hovered on products button 
+2021-12-05 23:30:59,649 INFO  [Log] Clicked on LaptopBags button 
+2021-12-05 23:31:00,271 INFO  [Log] Mouse hovered on products button 
+2021-12-05 23:31:00,398 INFO  [Log] Clicked on LaptopBags button 
+2021-12-05 23:31:00,975 INFO  [Log] Checking whether email is clickable 
+2021-12-05 23:31:00,997 INFO  [Log] Email is clickable 
+2021-12-05 23:31:00,997 INFO  [Log] Checking whether phone number is clickable 
+2021-12-05 23:31:01,022 INFO  [Log] Phone number is clickable 
+2021-12-05 23:31:01,022 INFO  [Log] Mouse hovered on my account button 
+2021-12-05 23:31:01,147 INFO  [Log] Clicked Register button 
+2021-12-05 23:31:01,687 INFO  [Log] Asserted text present on register page 
+2021-12-05 23:31:01,707 INFO  [Log] Mouse hovered on my account button 
+2021-12-05 23:31:01,830 INFO  [Log] Clicked sign in button 
+2021-12-05 23:31:01,957 INFO  [Log] Asserted text present on sign in page 
